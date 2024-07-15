@@ -19,10 +19,6 @@ The repository is organized by problem type and difficulty. Each folder contains
 ## Usage
 To view a solution for a particular problem, navigate to the corresponding directory and open the relevant file. Each solution file includes the code implementation.
 
-
-## Usage
-To view a solution for a particular problem, navigate to the corresponding directory and open the relevant file. Each solution file includes the problem statement and the code implementation.
-
 ## Contributing
 If you would like to contribute by adding new solutions or improving existing ones, please follow these steps:
 
@@ -40,5 +36,9 @@ If you would like to contribute by adding new solutions or improving existing on
    git push origin feature-branch
    ```
 5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 
