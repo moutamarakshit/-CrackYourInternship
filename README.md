@@ -10,14 +10,14 @@ A repository for uploading solutions of "#CrackYourInternship" "#CrackYourPlacem
 - [License](#license)
 
 ## Introduction
-This repository contains my solutions to various LeetCode and GeekforGeeks problems aimed at preparing for internship and placement interviews. Each solution is implemented in a way that is easy to understand and efficient.
+This repository contains my solutions to various LeetCode and GeekforGeeks problems from the "CrackYourInternship" challenge by Arsh Goyal, aimed at preparing for internship and placement interviews. Each solution is implemented in a way that is easy to understand and efficient.
 
 ## Structure
-The repository is organized by problem type and difficulty. Each folder contains the solutions for related problems.
+The repository is organized by days. The day folder contains the solution codes for each problem I solved on that particular day.
 
 
 ## Usage
-To view a solution for a particular problem, navigate to the corresponding directory and open the relevant file. Each solution file includes the code implementation.
+To view a solution for a particular problem, navigate to the directory and open the relevant file. Each solution file includes the code implementation.
 
 ## Contributing
 If you would like to contribute by adding new solutions or improving existing ones, please follow these steps:
